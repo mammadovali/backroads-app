@@ -1,5 +1,5 @@
 import Title from "./Title";
-import Tour from "../Tour";
+import Tour from "./Tour";
 
 import { tours } from "../data";
 
